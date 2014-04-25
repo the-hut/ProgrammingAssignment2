@@ -1,5 +1,6 @@
-## Put comments here that give an overall description of what your
-## functions do
+## The functions in this file allow you to create an object from a matrix
+## stored as a list. You can then calculate the inverse of the matrix
+## and return the inverse value from cache.
 
 ## function makeCacheMatrix
 ## creates a special "matrix" object that can cache its inverse.
